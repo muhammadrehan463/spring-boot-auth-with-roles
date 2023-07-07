@@ -1,0 +1,7 @@
+package com.RiderRegistration.RiderRegistration.entity;
+
+public enum Role {
+    ROLE_USER,
+    ROLE_ADMIN
+}
+
